@@ -1,0 +1,5 @@
+# CodeAlpha_AttendanceManagementSystem
+. Talking abouAttendance management System is advance Java project for tracking students attendancet the project. This system is in NetBeans IDE and supports MySQL as backend.
+alking about the features of the Attendance Management System, the user has to enter his/her number in order to maintain attendance which includes the entry time too. From the admin panel, the admin can add student’s record by entering id, name, course, and section. The admin can view all the attendance record. It also contains user management for the easy management of the system. This system is so vast and complete for a university.
+
+Design of this project is pretty simple so that the user won’t find any difficulties while working on it. This system helps the user in managing attendance records. To run this project you must have installed virtual server i.e XAMPP on your PC (for Windows). Attendance Management System in Java with source code is free to download, Use for educational purposes only! For the project demo, have a look at the image slider below.
